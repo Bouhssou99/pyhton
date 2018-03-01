@@ -1,0 +1,2 @@
+# pyhton
+first project lol
